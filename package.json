@@ -1,0 +1,21 @@
+{
+  "name": "delmer",
+  "version": "1.0.0",
+  "description": "Arel Uni Project",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-cli": "^2.2.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-concat-css": "^3.1.0",
+    "gulp-purgecss": "^1.2.0",
+    "gulp-sass": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ümit Çağlayan Kırkoç",
+  "license": "MIT"
+}
